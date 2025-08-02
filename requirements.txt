@@ -4,3 +4,4 @@ langchain-google-genai
 pypdf
 nltk
 pymilvus
+langchainhub
